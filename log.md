@@ -24,4 +24,13 @@
 **Uzair:**
 - Watched @preetikodmad video linked above
 - Watched another video by James Long, creator of Prettier from React Conf: [⚡️ - James Long - A Prettier Printer](https://www.youtube.com/watch?v=hkfBvpEfWdA)
-- Started reading about a 25 Line compiler
+- Started reading a blog about a 25 Line compiler: [Implementing a Simple Compiler on 25 Lines of JavaScript](http://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/)
+
+# 26 April
+
++++
+
+Uzair:
+
+- Built a 25 line compiler using EBNF grammar and RDP algorithm: [Github Repo](https://github.com/abiduzz420/js-25l-compiler)
+
