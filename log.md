@@ -41,6 +41,12 @@ Uzair:
     - Forked the exercise repository from here: [awronka/test_first_part_one](https://github.com/awronka/test_first_part_one)
       Each exercise has video link shared in it's readme file
 
+**Tanveer:**
+- Built my first tiny Js compiler with the help of a blog post by @mgechev mentioned above.
+  - This exercise introduced me to ES6.
+  - It also helped me understand the use of a lexer, parser, and a transpiler.
+  - You can find my project at [Github Repo](https://github.com/Tanveer178/First-Tiny-JsCompiler)
+
 
 # 27 April
 
@@ -51,3 +57,15 @@ Uzair:
 - Watched workshop video by Kent C Dodds on [ASTs for Beginners](https://youtu.be/CFQBHy8RCpg)
   - The video talks about how to write babel-plugins, eslint-plugins and what is visitor pattern.
   - He also spoke about code-mods (short form for code modifications) where you can run a cli command to make changes throughout the codebase without having to use Find/Replace.
+
+
+  # 28 April
+
+  +++
+
+  **Tanveer:**
+
+  - Watched video by Kent C Dodds mentioned above.
+    - I have seen small implementations of Babel,ESLint plugins and also how Codemods can be used.
+    - I have learnt that Prettier mainly focuses on formatting your code and not on the semantics and business logic.
+    - Babel and ESLint mainly focuses on transpiling and preventing bugs in your code respectively. 
