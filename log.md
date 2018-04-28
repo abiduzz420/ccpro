@@ -33,4 +33,21 @@
 Uzair:
 
 - Built a 25 line compiler using EBNF grammar and RDP algorithm: [Github Repo](https://github.com/abiduzz420/js-25l-compiler)
+  - The exercise helped me to understand how Recursion can be used
+- Learnt briefly about Jasmine test framework and got to know about whys, whats and hows about Testing
+  - [Testing JavaScript Applications Workshop (at PayPal) by Kent C Dodds](https://www.youtube.com/watch?v=DdqiXcYDv-8) : Watched only few minutes
+  - Followed couple of exercises from Youtube playlist on Test driven Development
+    - [Test Driven Development Javascript](https://www.youtube.com/playlist?list=PLSb5L1g8FoPPgZiTisryTG0XQAsH_wbMk)
+    - Forked the exercise repository from here: [awronka/test_first_part_one](https://github.com/awronka/test_first_part_one)
+      Each exercise has video link shared in it's readme file
 
+
+# 27 April
+
++++
+
+**Uzair**:
+
+- Watched workshop video by Kent C Dodds on [ASTs for Beginners](https://youtu.be/CFQBHy8RCpg)
+  - The video talks about how to write babel-plugins, eslint-plugins and what is visitor pattern.
+  - He also spoke about code-mods (short form for code modifications) where you can run a cli command to make changes throughout the codebase without having to use Find/Replace.
